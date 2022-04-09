@@ -19,7 +19,7 @@
     "leaflet": "^1.4",
     "leaflet-ajax": "^2.1",
     "lodash": "^4.17",
-    "moment": "^2.23",
+    "moment": "^2.29",
     "perfect-scrollbar": "^1.4",
     "pixi.js": "^4.8",
     "popper.js": "^1.12",
